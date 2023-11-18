@@ -1,7 +1,7 @@
 **/*.pth
 **/*.pt
 **/*.ckpt
-
+**.*.png
 # ./.git/objects/pack/pack-027f8d7c8cdb4528637ee85f470acc6afdd10e15.pack
 # ./.git/objects/f3/9897677c646cf936a4849ae28ea7cae509e972
 # ./ddpm/exp/logs/celeba/celeba_hq.ckpt
